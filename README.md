@@ -76,3 +76,6 @@ We welcome contributions from the community! If you'd like to contribute to the 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## Extras
+It works fine in python 3.11
+
