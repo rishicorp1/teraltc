@@ -17,9 +17,6 @@
 ## Introduction
 
 DC Bot is a feature-packed Discord bot focused on the world of cryptocurrency. It leverages discord.py (PyCord) to provide a streamlined experience through slash commands. Users can effortlessly interact with various aspects of the crypto universe, from checking live Litecoin prices to setting custom exchange rates. With additional features like fiat exchange rate checks, Litecoin balance verification, and the ability to confirm transactions using a hash, DC Bot is your go-to companion for staying updated on all things crypto.
-
-![Screenshot of DC Bot in Action](https://example.com/dc-bot-screenshot.png)
-
 ---
 
 ## Features
