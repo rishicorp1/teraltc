@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=This+Bot+Made+In+Py-Cord;Made+By+Rishi)](https://git.io/typing-svg)
 # DC Bot - teraltc
 
 > A Discord bot tailored for cryptocurrency enthusiasts, built with discord.py (PyCord), focusing on slash commands for a streamlined experience.
